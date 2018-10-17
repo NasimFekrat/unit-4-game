@@ -1,0 +1,70 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("../images/light_grey.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding: 0px;
+    margin: px;
+    font-family: 'Mali', cursive;
+}
+.heading{
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #FC6C85;
+    margin: 20px 0px;
+    margin-top: 40px;
+}
+.description{
+    font-size: 18px;
+    background-color: #FCDFFF;
+    color: #F778A1;
+    margin: 20px 0px;
+    padding: 20px;
+}
+.random{
+    font-size: 36px;
+    background-color: #7D0552;
+    color: #dddddd;
+    margin: 20px 0px;
+    text-align: center;
+    padding: 20px;
+}
+.winCount{
+    font-size: 24px;
+    background-color: #7E354D;
+    color: #dddddd;
+    margin: 20px 0px;
+}
+button{
+    padding: 0px;
+    margin: 20px 0px;
+}
+.imgButton{
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    background-color: #cccccc;
+}
+.scoreTitle{
+    margin: 20px 0px;
+    font-size: 18px;
+    color: #dddddd;
+    background-color: #E4287C;
+    padding: 5px;
+}
+.score{
+    font-size: 36px;
+    background-color: #E4287C;
+    color: #dddddd;
+    margin: 0px;
+    margin-bottom: 40px;
+    width: 100%;
+    height: 70px;
+}

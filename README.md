@@ -16,6 +16,8 @@
 
    * The app will show the number of games has been played.
    
+- - -
+   
 ### URL
 
   * You can find the game in the following URL:

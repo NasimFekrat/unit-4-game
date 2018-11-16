@@ -1,5 +1,6 @@
 # Unit 4 Game
-* Here's how the app works:
+
+### Here's how the app works:
 
    * There is four crystals on the page.
 
@@ -14,3 +15,7 @@
    * The game restarts whenever the player wins or loses.
 
    * The app will show the number of games has been played.
+   
+### URL
+
+  * You can find the game in the following URL:
